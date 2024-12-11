@@ -1,11 +1,21 @@
 {
-    "API_ID"       :  "",
-    "API_HASH"     :  "",
+
+    "API_ID"       :  "7220432208",
+
+    "API_HASH"     :  "AAE8IsaPO0fme-Amcf3s8bpJVlPN_ag8laM",
+
     "PHONE_NUMBER" :  "",
-    "BOT_TOKEN"    :  "",
-    "DEBUG_BOT"    :  "",
-    "OWNER_ID"     : "1576069884",
+
+    "BOT_TOKEN"    :  "7220432208:AAE8IsaPO0fme-Amcf3s8bpJVlPN_ag8laM",
+
+    "DEBUG_BOT"    :  "BarryxBot",
+
+    "OWNER_ID"     : "6440962840",
+
     "LOGS_CHAT"    :  "",
+
     "THREADS"      :   15,
-    "BOT_BY"       :  "Bot - <a href=\"tg://user?id=1576069884\">Toͥnmͣoͫy  Ɠφ </a>"
+
+    "BOT_BY"       :  "Bot - <a href=\"tg://user?id=1576069884\">Barry_op</a>"
+
 }
